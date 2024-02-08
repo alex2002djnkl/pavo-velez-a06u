@@ -1,3 +1,3 @@
 # Aquest es el nostre MER
 
-!MER(MER.png)
+![MER](./img/MER.png)
