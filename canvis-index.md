@@ -1,3 +1,3 @@
-## Canvis a index.php per adaptar-se al MER
+# Canvis a index.php per adaptar-se al MER
 
-# Encara no hi han canvis 
+## Encara no hi han canvis 
